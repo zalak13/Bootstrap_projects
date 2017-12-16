@@ -1,32 +1,19 @@
 {
-<<<<<<< HEAD
   "name": "nodejsprojects",
   "version": "1.0.0",
-  "description": "This is a test directory to learn Node.js",
-=======
-  "name": "confusion",
-  "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
->>>>>>> conFusion/master
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-<<<<<<< HEAD
   "author": "Zalak Shah",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-=======
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.2.2"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6"
->>>>>>> conFusion/master
   }
 }
