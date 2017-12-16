@@ -1,2 +1,2 @@
-# node_projects
-This repository contains the node projects.
+# Bootstrap_projects
+This repository contains the HTML and bootstrap projects.
